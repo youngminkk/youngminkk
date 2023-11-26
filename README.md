@@ -12,8 +12,8 @@ I hope that the joy of development continues endlessly..
 
 - [![email Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:mmmin0610@gmail.com)](mailto:mmmin0610@gmail.com)
 - [![Tistory Badge](https://img.shields.io/badge/-tistory-11B48A?logo=vimeo&logoColor=white&style=plastic&link=https://mpago.tistory.com)](https://mpago.tistory.com)
-- [![GitHub Blog Badge](https://img.shields.io/badge/-GitHub%20blog-black?style=plastic&logo=github&link=https://velog.io/@seob)](https://seobie.github.io)
-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/x.eob/)](https://www.instagram.com/x.eob/)
+- [![GitHub Blog Badge](https://img.shields.io/badge/-GitHub%20blog-black?style=plastic&logo=github&link=https://)](https://youngminkk.github.io)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/m.m3_6/)](https://www.instagram.com/m.m3_6/)
 
 ## 🛠 Tech Stack 🛠
 
