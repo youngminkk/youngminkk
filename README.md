@@ -27,12 +27,12 @@ I hope that the joy of development continues endlessly..
 ### ⭐️ Currently Studying & Interested In
 
 <br />
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![seobie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobie&hide=contribs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/seobie/github-readme-stats)
+[![youngminkk GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminkk&hide=contribs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/youngminkk/github-readme-stats)
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseobie&count_bg=%23FF8C8C&title_bg=%23555555&icon=react.svg&icon_color=%234AB3F7&title=console.log%28hits%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%youngminkk&count_bg=%23FF8C8C&title_bg=%23555555&icon=react.svg&icon_color=%234AB3F7&title=console.log%28hits%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
