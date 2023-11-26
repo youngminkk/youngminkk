@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YoungMin%20Kim&desc=Web%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+YoungMin's+GitHub!👋)](https://git.io/typing-svg)
 "I aspire to become a developer who continuously studies and thinks. "<br />
 I hope that the joy of development continues endlessly..
 
