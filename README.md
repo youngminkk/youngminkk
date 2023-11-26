@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YoungMin%20Kim&desc=Web%20developer&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 "I aspire to become a developer who continuously studies and thinks. "<br />
 I hope that the joy of development continues endlessly..
