@@ -28,12 +28,13 @@ I hope that the joy of development continues endlessly..
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 
 [![youngminkk GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminkk&hide=contribs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/youngminkk/github-readme-stats)
 
 <div align="right">
-  
+</div> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungminkk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
