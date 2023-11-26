@@ -27,9 +27,9 @@ I hope that the joy of development continues endlessly..
 ### ⭐️ Currently Studying & Interested In
 
 <br />
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![youngminkk GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminkk&hide=contribs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/youngminkk/github-readme-stats)
+![youngminkk GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminkk&hide=contribs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/youngminkk/github-readme-stats)
 
 <div align="right">
 
