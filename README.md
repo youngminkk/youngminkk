@@ -37,7 +37,7 @@ I hope that the joy of development continues endlessly..
 
 ### 읽은 책
 |:---:|:---:|:---:|
-Java의 정석 남궁성 저자 <br />
+|Java의 정석 |남궁성 저자| <br />
 Lets 실전예제로 배우는 자바 프로그래밍(Java Programming) - 서민구 저자 <br />
 Lets 실전예제로 배우는 HTML5 & CSS3 - 문선종 저자 <br />
 그림으로 이해하는 AWS 구조와 기술 - 오가사와라 시게타카 저자(글) · 성창규 번역 <br />
