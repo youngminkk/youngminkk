@@ -35,6 +35,7 @@ I hope that the joy of development continues endlessly..
 ## 📚 읽은 책 / 읽을 책 목록
 #### 책을 읽고 정리합니다. 읽은 책 혹은 읽고 있는 책 목록입니다.
 
+### 읽은 책
 Java의 정석 남궁성 저자 <br />
 Lets 실전예제로 배우는 자바 프로그래밍(Java Programming) - 서민구 저자 <br />
 Lets 실전예제로 배우는 HTML5 & CSS3 - 문선종 저자 <br />
@@ -44,7 +45,7 @@ Lets 실전예제로 배우는 HTML5 & CSS3 - 문선종 저자 <br />
 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 저자 <br />
 코드로 배우는 스프링 웹 프로젝트 - 구멍가게 코딩단 저자 <br />
 하루 10분 SQL - 한상일 저자 <br />
-
+### 읽을 책 목록
 
 ## 🎯 읽고 있는 책 목록
 
