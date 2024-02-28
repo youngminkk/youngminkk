@@ -35,26 +35,22 @@ I hope that the joy of development continues endlessly..
 ## 📚 읽은 책 / 읽을 책 목록
 #### 책을 읽고 정리합니다. 읽은 책 혹은 읽고 있는 책 목록입니다.
 
-|[자바스크립트 코딩의 기술](https://saseungmin.github.io/reading_books_record_repository/docs/javascript/modern-javascript/table-of-contents)|[Node.js 교과서](https://github.com/saseungmin/Node.js-tutorial)|[리액트를 다루는 기술](https://github.com/saseungmin/react-tutorial)|
-|:---:|:---:|:---:|
-|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/javascript/modern-javascript/table-of-contents"><img src="images/modern-javascript.jpeg" width="400px" height="300px"/></a>|<a href="https://github.com/saseungmin/Node.js-tutorial"><img src="images/node-js-textbook.jpeg" width="400px" height="300px"/></a>|<a href="https://github.com/saseungmin/react-tutorial"><img src="images/react-book.jpeg" width="400px" height="300px"/></a>|
-|[**You Don’t Know JS 타입과 문법, 스코프와 클로저**](https://saseungmin.github.io/reading_books_record_repository/docs/javascript/you-dont-know-js/table-of-contents)|[**Do it! 타입스크립트 프로그래밍**](https://saseungmin.github.io/reading_books_record_repository/docs/typescript/do-it-typescript/table-of-contents)|[**프로 Git 2판: 그림으로 이해하는 Git의 작동 원리와 사용법**](https://saseungmin.github.io/reading_books_record_repository/docs/git/pro-git-2/table-of-contents)|
-|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/javascript/you-dont-know-js/table-of-contents"><img src="images/you-dont-know-js-1.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/typescript/do-it-typescript/table-of-contents"><img src="images/do-it-typescript.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/git/pro-git-2/table-of-contents"><img src="images/pro-git-2e.jpeg" width="400px" height="300px"/></a>|
-|[**코어 자바스크립트**](https://saseungmin.github.io/reading_books_record_repository/docs/javascript/core-javascript/table-of-contents)|[**쉽게 배우는 알고리즘**](https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|[**함께 자라기**](https://saseungmin.github.io/reading_books_record_repository/docs/agile/growing-up-together/table-of-contents)|
-|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/javascript/core-javascript/table-of-contents"><img src="images/core-javascript.jpeg" width="400px" height="300px"/></a>|<a href="https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"><img src="images/algorism-book.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/agile/growing-up-together/table-of-contents"><img src="images/thinking-together.jpeg" width="400px" height="300px"/></a>|
-|[**실용주의 프로그래머**](https://saseungmin.github.io/reading_books_record_repository/docs/etc/pragmatic-programmer/table-of-contents)|[**인스파이어드**](https://saseungmin.github.io/reading_books_record_repository/docs/etc/inspired/table-of-contents)|[**테스트 주도 개발**](https://saseungmin.github.io/reading_books_record_repository/docs/test/test-driven-development/table-of-contents)|
-|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/etc/pragmatic-programmer/table-of-contents"><img src="images/pragmatic-programmer.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/etc/inspired/table-of-contents"><img src="images/inspired.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/test/test-driven-development/table-of-contents"><img src="images/tdd.jpeg" width="400px" height="300px"/></a>|
-|[**단위 테스트**](https://saseungmin.github.io/reading_books_record_repository/docs/test/unit-test/table-of-contents)|[**이펙티브 타입스크립트**](https://saseungmin.github.io/reading_books_record_repository/docs/typescript/effective-typescript/table-of-contents)||
-|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/test/unit-test/table-of-contents"><img src="images/unit-test.jpeg" width="400px" height="300px"/></a>|<a href="https://saseungmin.github.io/reading_books_record_repository/docs/typescript/effective-typescript/table-of-contents"><img src="images/effective-typescript.jpeg" width="400px" height="300px"/></a>||
+Java의 정석 남궁성 저자
+Lets 실전예제로 배우는 자바 프로그래밍(Java Programming) - 서민구 저자
+Lets 실전예제로 배우는 HTML5 & CSS3 - 문선종 저자
+그림으로 이해하는 AWS 구조와 기술 - 오가사와라 시게타카 저자(글) · 성창규 번역
+바닐라 자바스크립트 - 고승원 저자
+리액트를 다루는 기술 - 김민준 저자
+스프링 부트와 AWS로 혼자 구현하는 웹 서비스 - 이동욱 저자
+코드로 배우는 스프링 웹 프로젝트 - 구멍가게 코딩단 저자
+하루 10분 SQL - 한상일 저자
 
-## 🎯 읽을 책 목록
-- You Don’t Know JS this와 객체 프로토타입, 비동기와 성능
-- 클린 아키텍처 소프트웨어 구조와 설계의 원칙
-- HTTP 완벽 가이드
-- [구글 엔지니어는 이렇게 일한다](http://www.yes24.com/Product/Goods/109182479)
-- [쏙쏙 들어오는 함수형 코딩](http://www.yes24.com/Product/Goods/108748841)
-- [프로그래머의 뇌](http://www.yes24.com/Product/Goods/105911017)
-- [Code Complete 코드 컴플리트 2](http://www.yes24.com/Product/Goods/44130507)
+
+## 🎯 읽고 있는 책 목록
+
+스프링 부트 3 백엔드 개발자 되기 - 자바 편 JPA + OAuth2 + JWT + AWS와 배우는 스프링 부트 3 자바 백엔드 입문자를 위한 풀 패키지 - 신선영 저자
+현장에서 바로 써먹는 리액트 with 타입스크립트 - 김정헌 저자
+
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 
